@@ -13,7 +13,7 @@ function draw() {
   let yCHORD2= 0
   
 for(let counter =0; counter <20; counter++){
-  fill(random(50,50,50));
+  fill(random(220));
 ellipse(xCHORD,yCHORD,30,30)
 xCHORD=xCHORD +30 
 yCHORD=yCHORD +30
